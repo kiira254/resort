@@ -1,9 +1,9 @@
 h1 {
   color: black;
-  text-align: inherit;
+  text-align: justify;
 }
 h2 {
-  font-style: oblique;
+  font-style: normal;
   text-align: center;
   color: teal;
 }
