@@ -1,0 +1,15 @@
+h1 {
+  color: white;
+  text-align: justify;
+}
+h2 {
+  font-style: normal;
+  text-align: center;
+  color: teal;
+}
+p {
+  color: red;
+}
+body {
+  background-color:black;
+}
